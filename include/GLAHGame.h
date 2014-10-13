@@ -198,11 +198,6 @@ typedef enum
 //////////////////////////////////////////////////////////////////////////
 
 
-
-
-
-//Vertex* CreateTriangle();
-
 /**
 *	@author	Adam Hulbert (original interface copied from Jamie Stewart's AIE framework. All implementation by Adam Hulbert)
 *	@date	21/09/2014
